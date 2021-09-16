@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Recorded Talks
 
-* [ScalaDays19] Metaprogramming in Dotty - Nicolas Stucki
+* [ScalaDays19] Metaprogramming in Dotty
  ([YouTube](https://www.youtube.com/watch?v=ZfDS_gJyPTc))
 ### Papers
 
