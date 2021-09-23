@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  ([YouTube](https://www.youtube.com/watch?v=ZfDS_gJyPTc))
 ### Papers
 
-* [GPCE21] Multi-Stage Programming with Generative and Analytical Macros
+* [GPCE21] Multi-Stage Programming with Generative and Analytical Macros ([EPFL:Report+Proofs](https://infoscience.epfl.ch/record/288718?&ln=en))
 * [MPLR21] Virtual ADTs for Portable Metaprogramming
 * [Scala20] Semantics-preserving inlining for metaprogramming ([DOI](https://doi.org/10.1145/3426426.3428486), [EPFL](https://infoscience.epfl.ch/record/287257?ln=en))
 * [Scala18] Truly abstract interfaces for algebraic data types: the extractor typing problem ([DOI](https://doi.org/10.1145/3241653.3241658), [EPFL](https://infoscience.epfl.ch/record/261291?ln=en))
