@@ -1,6 +1,8 @@
-### Currently working on
+## Nicolas Stucki
 
-My Ph.D. studies. Implemented, formalizing and improving the Scala 3 metaprogramming features.
+Core contributor to Scala language design and implementation. Extensively worked on Scala 3 and Scala.js compilers and libraries. A decade and a half of JVM-languages experience. Contributed: 3'700+ commits, 500'000+ LOC, 2'000+ PRs to Scala open source projects.
+
+Interested in programming language design, implementation and theory.
 
 <!--
 **nicolasstucki/nicolasstucki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
