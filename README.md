@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ### Recorded Talks
 
+* [2023] Public Ph.D. defense ([YouTube](https://youtu.be/6YckfvkLr3M))
 * [GPCE21] Multi-Stage Programming with Generative and Analytical Macros ([YouTube](https://www.youtube.com/watch?v=s78jjtAEquw))
 * [ScalaCon21] Scala 3 Macros ([YouTube](https://youtu.be/BbTZi8siN28))
 * [ScalaDays19] Metaprogramming in Dotty
