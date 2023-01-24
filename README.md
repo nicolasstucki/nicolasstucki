@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 * Scala 3 ([lamp/dotty](https://github.com/lampepfl/dotty))
 * Scala Syntax for VSCode ([scala/vscode-scala-syntax](https://github.com/scala/vscode-scala-syntax))
 
+
 ### Recorded Talks
 
 * [EPFL 2023] Public Ph.D. defense ([YouTube](https://youtu.be/6YckfvkLr3M))
@@ -31,7 +32,11 @@ Here are some ideas to get you started:
 * [ScalaCon21] Scala 3 Macros ([YouTube](https://youtu.be/BbTZi8siN28))
 * [ScalaDays19] Metaprogramming in Dotty
  ([YouTube](https://www.youtube.com/watch?v=ZfDS_gJyPTc))
- 
+
+### Thesis
+
+* [Ph.D. EPFL 2022] Scalable Metaprogramming in Scala 3 ([PDF](https://github.com/nicolasstucki/nicolasstucki/raw/main/Scalable%20Metaprogramming%20in%20Scala%203.pdf))
+  
 ### Papers
 
 * [GPCE21] Multi-Stage Programming with Generative and Analytical Macros ([DOI](https://dl.acm.org/doi/10.1145/3486609.3487203), [EPFL:Report+Proofs](https://infoscience.epfl.ch/record/288718?&ln=en))
