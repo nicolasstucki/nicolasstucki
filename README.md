@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Recorded Talks
 
-* [EPFL 2023] Public Ph.D. defense ([YouTube](https://youtu.be/6YckfvkLr3M))
+* [EPFL 2023] Public Ph.D. defense ([YouTube](https://youtu.be/6YckfvkLr3M), [Slides](https://github.com/nicolasstucki/nicolasstucki/blob/main/slides/Public%20defense/slides.md))
 * [GPCE21] Multi-Stage Programming with Generative and Analytical Macros ([YouTube](https://www.youtube.com/watch?v=s78jjtAEquw))
 * [ScalaCon21] Scala 3 Macros ([YouTube](https://youtu.be/BbTZi8siN28))
 * [ScalaDays19] Metaprogramming in Dotty
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Thesis
 
 * [Ph.D. EPFL 2022] Scalable Metaprogramming in Scala 3 ([PDF](https://github.com/nicolasstucki/nicolasstucki/raw/main/Scalable%20Metaprogramming%20in%20Scala%203.pdf))
-  
+
 ### Papers
 
 * [GPCE21] Multi-Stage Programming with Generative and Analytical Macros ([DOI](https://dl.acm.org/doi/10.1145/3486609.3487203), [EPFL:Report+Proofs](https://infoscience.epfl.ch/record/288718?&ln=en))
