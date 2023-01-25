@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 * Scala Syntax for VSCode ([scala/vscode-scala-syntax](https://github.com/scala/vscode-scala-syntax))
 
 
-### Recorded Talks
+### Talks
 
 * [EPFL 2023] Public Ph.D. defense ([YouTube](https://youtu.be/6YckfvkLr3M), [Slides](https://github.com/nicolasstucki/nicolasstucki/blob/main/slides/Public%20defense/slides.md))
+* [EPFL 2022] Private Ph.D. defense ([[Slides](https://github.com/nicolasstucki/nicolasstucki/blob/main/slides/Private%20defense/slides.md))
 * [GPCE21] Multi-Stage Programming with Generative and Analytical Macros ([YouTube](https://www.youtube.com/watch?v=s78jjtAEquw))
 * [ScalaCon21] Scala 3 Macros ([YouTube](https://youtu.be/BbTZi8siN28))
 * [ScalaDays19] Metaprogramming in Dotty
